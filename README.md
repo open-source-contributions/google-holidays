@@ -19,9 +19,9 @@
 
 <br><br>
 
-# PHP Google Holidays
+# Google Holidays
 
-**PHP Google Holidays** is a super light weight package to retrieve a country's holidays from the Google API using Google Calendars.
+**Google Holidays** is a super light weight package to retrieve a country's holidays from the Google API using Google Calendars.
 
 Made with ❤️ by [Stephen Lake](http://stephenlake.github.io/)
 
