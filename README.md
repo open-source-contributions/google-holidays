@@ -1,10 +1,6 @@
-<h6 align="center">
-    <img src="https://raw.githubusercontent.com/stephenlake/php-google-holidays/master/docs/assets/php-google-holidays.png" width="450"/>
-</h6>
+# Google Holidays
 
-<h6 align="center">
-    A PHP package to assist in retrieving a country's year bank holiday listings with name and date from Google Calendar API's.
-</h6>
+**Google Holidays** is a super light weight package to retrieve a country's holidays from the Google API using Google Calendars.
 
 <p align="center">
 <a href="https://travis-ci.org/stephenlake/php-google-holidays"><img src="https://img.shields.io/travis/stephenlake/php-google-holidays/master.svg?style=flat-square" alt="Build Status"></a>
@@ -17,21 +13,16 @@
 <a href="https://github.com/stephenlake/php-google-holidays/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"></a>
 </p>
 
-<br><br>
 
-# Google Holidays
-
-**Google Holidays** is a super light weight package to retrieve a country's holidays from the Google API using Google Calendars.
-
-Made with ❤️ by [Stephen Lake](http://stephenlake.github.io/)
+Made with ❤️ by [Stephen Lake](http://github.com/stephenlake)
 
 ## Getting Started
 
 Install the package via composer.
 
-    composer require stephenlake/php-google-holidays
+    composer require laravelshim/google-holidays
 
-#### See [documentation](https://stephenlake.github.io/php-google-holidays) for usage.
+#### See [documentation](https://larashim.github.io/google-holidays) for usage.
 
 ## License
 
