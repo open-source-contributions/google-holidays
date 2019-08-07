@@ -13,15 +13,13 @@
 
 **Google Holidays** is a super light weight package to retrieve a country's holidays from the Google API using Google Calendars.
 
-Made with ❤️ by [Stephen Lake](http://github.com/stephenlake)
-
 ## Getting Started
 
 Install the package via composer.
 
-    composer require laravelshim/google-holidays
+    composer require phpshim/google-holidays
 
-#### See [documentation](https://larashim.github.io/google-holidays) for usage.
+#### See [documentation](https://phpshim.github.io/google-holidays) for usage.
 
 ## License
 
