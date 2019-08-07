@@ -1,12 +1,12 @@
 {
-  "name": "stephenlake/php-google-holidays",
+  "name": "phpshim/google-holidays",
   "type": "library",
   "description": "A PHP package to assist in retrieving a country's year holidays from Google Calendar API's.",
   "license": "MIT",
   "keywords": ["holidays", "calendar"],
   "authors": [{
     "name": "Stephen Lake",
-    "email": "stephen@closurecode.com"
+    "email": "stephen-lake@live.com"
   }],
   "require-dev": {
     "phpunit/phpunit": "~7.0",
