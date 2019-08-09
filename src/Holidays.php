@@ -53,7 +53,7 @@ class Holidays
      */
     public function __construct()
     {
-        $this->start_date = date('Y-m-d').'T00:00:00-00:00';
+        $this->start_date = date('Y-m-d\T00:00:00-00:00');
         $this->end_date = (date('Y') + 1).'-01-01T00:00:00-00:00';
     }
 
@@ -66,7 +66,7 @@ class Holidays
      */
     public function from($str)
     {
-        $this->start_date = date('Y-m-d', strtotime($str)).'T00:00:00-00:00';
+        $this->start_date = date('Y-m-d\T00:00:00-00:00', strtotime($str));
 
         return $this;
     }
@@ -80,7 +80,7 @@ class Holidays
      */
     public function to($str)
     {
-        $this->end_date = date('Y-m-d', strtotime($str)).'T00:00:00-00:00';
+        $this->end_date = date('Y-m-d\T00:00:00-00:00', strtotime($str));
 
         return $this;
     }
